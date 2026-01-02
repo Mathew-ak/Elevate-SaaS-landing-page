@@ -1,4 +1,4 @@
-"use client"
+
 import Navigation from "@/components/navigation"
 import Hero from "@/components/sections/hero"
 import Features from "@/components/sections/features"
